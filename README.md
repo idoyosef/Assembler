@@ -74,6 +74,7 @@ Before you begin, ensure you have the following installed:
 The project must compile with:  
 ```bash
 gcc -Wall -ansi -pedantic
+```
 
 ### 📦 Installation
 
