@@ -1,7 +1,5 @@
 # 💻 C Assembler – Final Project (Maman 14) 💻
-This is the **Final Project (Maman 14)** for the **Laboratory in Systems Programming (20465)** course at the **Open University of Israel**, completed in **semester 2024B**.  
-It is a fully functional **assembler** written in **C** for a semi-imaginary assembly language, following the requirements outlined in the official course booklet.  
-The purpose of this project is to simulate the operation of a real system-level program and gain experience in developing a medium-scale modular software system.
+This is the **Final Project (Maman 14)** for the **Laboratory in Systems Programming (20465)** course at the **Open University of Israel**, completed in **semester 2024B**. It is a fully functional **assembler** written in **C** for a semi-imaginary assembly language, following the requirements outlined in the official course booklet. The purpose of this project is to simulate the operation of a real system-level program and gain experience in developing a medium-scale modular software system.
 
 ___
 
